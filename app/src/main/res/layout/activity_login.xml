@@ -44,8 +44,9 @@
         android:gravity="center"
         android:padding="15dp"
         android:text="@string/sign_up"
-        android:textColor="@color/colorAccent"
-        android:background="@color/colorPrimaryDark"/>
+        android:textColor="#ffffff"
+        android:background="#242b2e"
+        android:textSize="24sp"/>
 
     <TextView
 
